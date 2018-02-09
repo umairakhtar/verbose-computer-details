@@ -1,0 +1,56 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.6;
+}
+input[type="text"] {
+	padding: 5px;
+	width: 250px;
+	border: 1px solid #CECECE;
+}
+input[type="submit"] {
+	padding: 10px;
+}
+a {
+	text-decoration: none;
+}
+p {
+	padding: 5px 0;
+}
+h1 {
+	padding: 10px 0;
+}
+h2 {
+	font-weight: normal;
+	padding: 5px 0;
+}
+
+.separator {
+	height: 1px;
+	border-top: 1px dotted #BBBBBB;
+}
+.container {
+	text-align: center;
+}
+.content {
+	text-align: left;
+	margin: 0 auto;
+	width: 800px;
+}
+.toolbar {
+	clear: both;
+	margin-bottom: 8px;
+	
+}
+.toolbar a {
+	font-weight: bold;
+	color: #272727;
+	background: #EFEFEF;
+	padding: 5px 10px;
+	font-size: 13px;
+	border: 1px solid #E1E1E1;
+}
